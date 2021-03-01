@@ -1,4 +1,4 @@
-Calculadora construída com os frameworks
+Calculadora construída 
 
 - HTML
 - JS
